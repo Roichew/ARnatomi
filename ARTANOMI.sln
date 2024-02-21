@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1e08d9ef-c141-661b-af6d-9cc067a0a106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaptiveFramerate", "AdaptiveFramerate.csproj", "{c849da38-321d-095c-a558-3c7d134a48a4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{d8ceb9be-f86c-0f56-8bf1-4ada240b7f2a}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1e08d9ef-c141-661b-af6d-9cc067a0a106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1e08d9ef-c141-661b-af6d-9cc067a0a106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c849da38-321d-095c-a558-3c7d134a48a4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c849da38-321d-095c-a558-3c7d134a48a4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d8ceb9be-f86c-0f56-8bf1-4ada240b7f2a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d8ceb9be-f86c-0f56-8bf1-4ada240b7f2a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
