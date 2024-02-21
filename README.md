@@ -12,7 +12,7 @@ To use the ARnatomi application, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/ar-organ-learning.git
+git clone https://github.com/galn14/ARnatomi.git
 
 2. Open the project in Unity.
 3. Ensure that you have the necessary dependencies installed, including Unity and Vuforia.
