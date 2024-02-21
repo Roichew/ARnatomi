@@ -32,3 +32,9 @@ This project is licensed under the MIT License, allowing for free use and modifi
 
 ##
 Thank you for your interest in our project! We hope it contributes to the advancement of health education in Indonesia.
+
+## The Team:
+@galn14
+@FauziA24
+@bilavz
+@aileenliexiuai
